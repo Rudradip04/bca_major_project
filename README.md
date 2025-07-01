@@ -6,9 +6,7 @@
   **Trisha Samanta - BWU/BCA/22/347**  
   **Moumita Dholey - BWU/BCA/22/351**  
   **Nabin Ghorui - BWU/BCA/22/356**
-  **Sagar Sarkar - BWU/BCA/22/325**    
-   
-  Brainware University  
+  **Sagar Sarkar - BWU/BCA/22/325**      
 
 ## 📄 Project Overview
 This project uses **transfer learning with the VGG16 model** to classify brain MRI images into four categories:  
