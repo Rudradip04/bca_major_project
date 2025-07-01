@@ -1,8 +1,13 @@
-# Brain Tumor Detection Using VGG16 and MRI Images
+# NEUROHEALTH AWARENESS & SUPPORT WEBSITE WITH BRAINTUMOR DETECTION USING DEEP LEARNING
 
 ## 👨‍💻 Project Team
-- **Rudradip Mukherjee**  
-  BCA Major Project  
+- **Rudradip Mukherjee - BWU/BCA/22/337**
+- **Saheli Roy - BWU/BCA/22/330**  
+  **Trisha Samanta - BWU/BCA/22/347**  
+  **Moumita Dholey - BWU/BCA/22/351**  
+  **Nabin Ghorui - BWU/BCA/22/356**
+  **Sagar Sarkar - BWU/BCA/22/325**    
+   
   Brainware University  
 
 ## 📄 Project Overview
