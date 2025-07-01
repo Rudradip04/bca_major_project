@@ -53,10 +53,10 @@ Major project/
 
 > **IMPORTANT:**  
 > The trained `model.h5` file is over 100 MB and **cannot be uploaded to GitHub** due to the 25 MB file size limit.  
-> Please contact the project owner if you wish to get the model file for testing or demo purposes.
+> Please contact the project leader if you wish to get the model file for testing or demo purposes.
 
-📧 Email: *suradip123@example.com*  
-📁 Or download from Google Drive (link provided on request)
+📧 Email: *rudradipbku@gmail.com*  
+
 
 ---
 
@@ -85,9 +85,6 @@ Go to [http://127.0.0.1:5000/submissions](http://127.0.0.1:5000/submissions) to 
 
 ---
 
-## 🤝 Contributions & Credits
-
-- Rudradip Mukherjee (Project lead, model training, web integration)  
 
 ---
 
